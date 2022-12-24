@@ -3,7 +3,7 @@
 
 ```json
 {
-	"Name" : "Smac01",
+	"Name" : "Smacx0",
 	"Job" : "Developer",
 	"Bio" : "An aspiring developer interested in learning new stuffs",
 	"Skills" : [
