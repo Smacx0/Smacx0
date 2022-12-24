@@ -1,4 +1,4 @@
-## Hey there, I'm Smac01
+## Hey there, I'm Smacx0
 - I’m currently learning new stuffs :wink:.
 
 ```json
